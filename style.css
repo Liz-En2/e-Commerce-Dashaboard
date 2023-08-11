@@ -1,0 +1,242 @@
+body{
+    margin: 0;
+}
+
+nav{
+    position: fixed;
+    height: 100%;
+    width: 300px;
+    background-color: rgb(72, 61, 139);
+    margin: 0;
+    text-transform: capitalize;
+    color: white;
+}
+
+nav h1{
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+nav ul{
+    margin-top: 20px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 5px;
+}
+
+.main{
+    margin-left: 300px;
+}
+
+.nav-bar{
+    display: flex;
+}
+
+
+input{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+.material-symbols-rounded{
+    font-variation-settings: 
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}
+
+#Data{
+    margin-left: 90px;
+}
+
+.card1{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.icons{
+    background-color: rgb(217, 217, 217);
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.icons2{
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+   
+}
+
+.trending{
+    background-color: rgb(254, 76, 0);
+}
+
+.total-sales{
+    color: rgb(254, 76, 0);
+}
+
+.percent{
+    background-color: rgb(128, 137, 255);
+}
+
+.group{
+    background-color: green;
+}
+
+.cart{
+    background-color: darkslateblue;
+}
+
+.loading{
+    background-color: rgb(255, 191, 0);
+}
+
+.p1{
+    font-size: 13px !important;
+    font-weight: 400 !important;
+}
+.card-body .p2{
+    font-size: 27px;
+    font-weight: bold;
+}
+
+table{
+    margin-top: 10px;
+    width: 95%;
+    margin-left: 30px;
+}
+
+
+.thead{
+    background-color: darkslateblue;
+    border-radius: 20px !important;
+    border: solid 1px darkslateblue;
+}
+
+td, th{
+    padding: 10px 30px;
+}
+
+#Balance-Payments{
+    margin-top: 100px;
+    width: 60%;
+    margin-left: 240px;
+    margin-bottom: 100px;
+}
+
+.Balance{
+    background-color: rgb(254, 76, 0);
+    color: white;
+    /* width: 18rem; */
+}
+
+.balance-head{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.balance-title{
+    font-size: 14.5px !important;
+}
+
+.Balance li{
+    list-style-type: none;
+    margin-left: -30px;
+    font-size: 13px;
+}
+
+.inc{
+    margin-left: 150px;
+    font-weight: 500;
+}
+
+.exp{
+    margin-left: 146px;
+    font-weight: 500;
+}
+
+.tax{
+    margin-left: 172px;
+    font-weight: 500;
+}
+
+.Balance-btn{
+    margin-top: 20px;
+    margin-left: -30px;
+    color: rgb(254, 76, 0);
+    font-weight: 500;
+}
+
+.Balance-btn:hover{
+    background-color: rgb(254, 76, 0);
+    color: #fff;
+    border: white solid 1px;
+}
+
+.Payments{
+    /* width: 18rem;
+    height: ; */
+}
+
+.payments-head{
+    font-size: 25px;
+}
+
+.Payments ul{
+    margin-top: 30px;
+    margin-left: -30px;
+}
+
+.Payments li{
+    margin-bottom: 10px;
+    font-size: 13.5px;
+    list-style: none;
+}
+
+.Way{
+    margin-left: 110px;
+    padding: 0px 10px 2px 10px;
+    background-color: rgb(255, 192, 192);
+    color: rgb(254, 76, 0);
+    border-radius: 50px;
+
+}
+
+.ner{
+    margin-left: 135px;
+    padding: 0px 10px 2px 10px;
+    background-color: rgb(255, 192, 192);
+    color: rgb(254, 76, 0);
+    border-radius: 50px;
+}
+
+.Spring{
+    margin-left: 135px;
+    padding: 0px 10px 2px 10px;
+    background-color: rgb(255, 192, 192);
+    color: rgb(254, 76, 0);
+    border-radius: 50px;
+}
+
+.Payments .btn{
+    margin-top: 14px;
+    margin-bottom: 17px;
+    
+}
+
+
+
+.Payments .btn:hover{
+    background-color: white;
+    color: black;
+}
+
