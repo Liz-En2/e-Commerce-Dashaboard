@@ -45,6 +45,19 @@ input{
     background-color: rgb(0, 0, 0);
 }
 
+.dark{
+    margin-left: 550px;
+}
+
+.notify{
+    margin-left: 10px;
+}
+
+.log{
+    margin-left: 50px;
+}
+
+
 .material-symbols-rounded{
     font-variation-settings: 
     'FILL' 1,
